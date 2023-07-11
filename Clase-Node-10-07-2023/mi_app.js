@@ -4,3 +4,4 @@ const { area, circunferencia, valorPI } = require('./circulo.js');     // Se pue
 console.log('Area (radio 4): ' + area(4));
 console.log('Perímetro (radio 4): ' + circunferencia(4));
 console.log('PI: ' + valorPI);
+
